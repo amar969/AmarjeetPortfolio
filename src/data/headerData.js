@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Amarjeet Maurya',
+    title: "Full Stack Web Developer",
+    desciption:"I was born in Thane and went to school R.G.S(Ulhasnagar).I'm highly passionate to develop web-based products and keen on finding solutions for the same. I educate, refine and drive myself to a better person. I am constantly learning. I stay calm when faced with Adversity.",
+    image: 'https://www.linkpicture.com/q/pp-0-removebg-preview.jpg',
     resumePdf: resume
 }

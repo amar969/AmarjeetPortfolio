@@ -14,12 +14,12 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Technical Document Writing',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Email Tech Support',
         icon: <AiOutlineMail />
     },
     // {
@@ -38,31 +38,31 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 7,
+    //     title: 'Photography',
+    //     icon: <FaCameraRetro />
+    // },
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
     //     icon: <FaPinterest />
     // }, 
-    {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
+    // {
+    //     id: 9,
+    //     title: 'Video Editing',
+    //     icon: <FaVideo />
+    // },
     // {
     //     id: 10,
     //     title: 'Data Entry', 
     //     icon: <BsClipboardData />
     // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
+    // {
+    //     id: 11,
+    //     title: 'Ebook Writing',
+    //     icon: <FaTabletAlt />
+    // },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
